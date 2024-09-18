@@ -96,3 +96,7 @@ for signatures:
 
 Here are 2 sample logfiles for the [Chrystals-Kyber KEM](sample_chrystals_kyber.md) and the 
 [Chrystals-Dilithium SIG](sample_chrystals_dilithium.md) algorithms.
+
+## License
+
+Post Quantum Cryptography with Bouncy Castle 1.72 is available under the MIT license. See the LICENSE.md file for more info.
